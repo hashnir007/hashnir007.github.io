@@ -1,4 +1,5 @@
 body{
+	font-size:150%;
 	margin:2%;
 	background: #B3B3B3;
 }
@@ -12,7 +13,7 @@ header{
 	text-align: center;
 	padding: 15px;
 }
-
+	
 nav{
 	font-variant: small-caps;
 	font-family: Arial, "Times Now Roman";
