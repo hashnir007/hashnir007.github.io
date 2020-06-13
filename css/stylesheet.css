@@ -54,7 +54,10 @@ nav a {
     text-decoration-line: none;
 }
 
-
+section h2{
+	border: solid 3px black;
+	border-radius: 5px;
+}
 
 
 
