@@ -1,0 +1,60 @@
+body{
+	margin:2%;
+	background: #B3B3B3;
+}
+
+h1{
+	color: #FFFFFF;
+}
+
+header{
+	background: #666666;
+	text-align: center;
+	padding: 15px;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times Now Roman";
+	font-size: 150%;
+}
+
+h2{
+	color: #000000;
+	background: #00B7EA;
+}
+
+details p{
+	font-style: italic;
+}
+
+
+footer{
+	background: #666666;
+	clear: both;
+	margin-top: 25%;
+}
+
+section{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+}
+img{
+	width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
