@@ -31,6 +31,10 @@ nav{
 	font-size: 150%;
 	padding: auto;
 }
+nav a{
+	display: inline-block;
+	margin: 20px;
+}
 
 h2{
 	color: #000000;
@@ -48,8 +52,8 @@ footer{
 	margin-top: 4%;
 }
 
-section{
-	width: 30%;
+.half{
+	width: 45%;
 	display: inline-block;
 	float: left;
 	margin-right: 2%;
@@ -94,6 +98,9 @@ section h2{
 	border-style: outset;
 }
 
+.whole{
+	clear: both;
+}
 
 
 
