@@ -31,6 +31,10 @@ nav{
 	font-size: 150%;
 	padding: auto;
 }
+nav a{
+	display: inline-block;
+	
+}
 
 h2{
 	color: #000000;
