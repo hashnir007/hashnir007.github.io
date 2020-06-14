@@ -52,8 +52,8 @@ footer{
 	margin-top: 4%;
 }
 
-section{
-	width: 30%;
+.half{
+	width: 45%;
 	display: inline-block;
 	float: left;
 	margin-right: 2%;
@@ -97,6 +97,7 @@ section h2{
 	border-color: #ff0000;
 	border-style: outset;
 }
+
 
 
 
