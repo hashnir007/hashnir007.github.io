@@ -98,7 +98,9 @@ section h2{
 	border-style: outset;
 }
 
-
+.whole{
+	clear: both;
+}
 
 
 
